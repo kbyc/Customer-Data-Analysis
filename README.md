@@ -1,3 +1,3 @@
 # Customer Data Analysis
 
-#### Analysis was conducted to identify key features and interesting patterns in the customer data. 
+#### The project aims to uncover patterns and relationships within the data to understand customer behavior and preferences, identify potential areas of improvement for the business, and inform marketing and sales strategies.
